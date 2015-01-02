@@ -4,3 +4,50 @@ div.ad_placement.ad_leaderboard.noprint {
     display: none;
 }
 
+/*Just changed the background color, and I took away an advertisement*/
+
+li.spotlightFollowers {
+    display: none;
+}
+
+div.spotlightAvatarContainer {
+    display: none;
+}
+
+div.communitySpotlightHeader {
+    display: none;
+}
+
+li.spotlightName a {
+    display: none;
+}
+
+div.addToIGN {
+    display: none;
+}
+
+div.spotlightData {
+    display: none;
+}
+
+div.spotlightTagLine {
+    display: none;
+}
+
+div.ign-communitySpotlight div a {
+    display: none;
+}
+
+div.ignFooter-column {
+    display: none;
+}
+
+div.ignFooter-topRow {
+    display: none;
+}
+
+div.grid_8.coverStoriesShift {
+    display: none;
+}
+
+/*For this I took out all the unneeded boxes, my goal righ now is to make IGN as simple and small as possible and then eventually finding ways to make it look even more slick.*/
