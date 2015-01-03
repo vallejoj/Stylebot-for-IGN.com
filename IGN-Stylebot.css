@@ -4,8 +4,6 @@ div.ad_placement.ad_leaderboard.noprint {
     display: none;
 }
 
-/*Just changed the background color, and I took away an advertisement*/
-
 li.spotlightFollowers {
     display: none;
 }
@@ -50,4 +48,59 @@ div.grid_8.coverStoriesShift {
     display: none;
 }
 
-/*For this I took out all the unneeded boxes, my goal righ now is to make IGN as simple and small as possible and then eventually finding ways to make it look even more slick.*/
+div.ignFooter-bottomRow.ignFooter-bottomRowCompact {
+    color: #611361;
+    background-color: #1e0624;
+}
+
+div.container_24.clear {
+    background: linear-gradient(to right, rgba(239,245,247,1) 16%, rgba(99,202,234,1) 33%, rgba(41,184,229,1) 40%, rgba(202,237,249,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+html.wf-arsmaquetteweb-n4-active.wf-arsmaquetteweb-n7-active.wf-ffdinroundwebpro-n7-active.has-svg.wf-arsmaquetteweb-i4-active.wf-arsmaquetteweb-n9-active.wf-active body {
+    background-color: #2cc2e8;
+}
+
+a.queue-item.tile.content.trending {
+    display: none;
+}
+
+img.image.type-other {
+    display: none;
+}
+
+div.tile.content.has-label {
+    display: none;
+}
+
+div.horizontal {
+    background: linear-gradient(to right, rgba(239,245,247,1) 16%, rgba(99,202,234,1) 33%, rgba(41,184,229,1) 40%, rgba(202,237,249,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+html.wf-arsmaquetteweb-i4-active.wf-arsmaquetteweb-n4-active.wf-arsmaquetteweb-n7-active.wf-arsmaquetteweb-n9-active.wf-ffdinroundwebpro-n7-active.wf-active.has-svg body {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+div.spine {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+div.listElmnt-blogItem h3 {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+div.trendingwikis-pages {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
+div.listElmnt {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+}
+
