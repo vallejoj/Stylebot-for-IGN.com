@@ -51,11 +51,7 @@ div.grid_8.coverStoriesShift {
 div.ignFooter-bottomRow.ignFooter-bottomRowCompact {
     color: #611361;
     background-color: #1e0624;
-}
-
-div.container_24.clear {
-    background: linear-gradient(to right, rgba(239,245,247,1) 16%, rgba(99,202,234,1) 33%, rgba(41,184,229,1) 40%, rgba(202,237,249,1) 85%, rgba(255,255,255,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
+    display: none;
 }
 
 html.wf-arsmaquetteweb-n4-active.wf-arsmaquetteweb-n7-active.wf-ffdinroundwebpro-n7-active.has-svg.wf-arsmaquetteweb-i4-active.wf-arsmaquetteweb-n9-active.wf-active body {
@@ -89,13 +85,13 @@ div.spine {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
 }
 
-div.listElmnt-blogItem h3 {
+div.trendingwikis-pages {
     background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
 }
 
-div.trendingwikis-pages {
-    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+div.container_24.clear {
+    background: linear-gradient(to right, rgba(239,245,247,1) 16%, rgba(99,202,234,1) 33%, rgba(41,184,229,1) 40%, rgba(202,237,249,1) 85%, rgba(255,255,255,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
 }
 
@@ -104,3 +100,34 @@ div.listElmnt {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 );
 }
 
+#blogrollInterruptDealsMore {
+    display: none;
+}
+
+div.noprint {
+    color: #faf2fa;
+    background-color: #faf2fa;
+}
+
+a.trendingwikis-readerCount {
+    background: linear-gradient(to right, rgba(239,245,247,1) 5%, rgba(41,184,229,1) 16%, rgba(84,198,234,1) 33%, rgba(217,242,250,1) 85%, rgba(255,255,255,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eff5f7', endColorstr='#ffffff', GradientType=1 )
+;
+}
+
+div.listElmnt-blogItem:hover {
+    width: 70%;
+    background-color: white;
+}
+
+div.listElmnt-blogItem {
+    width: 100%;
+    list-style: none;
+    margin: 10px;
+    padding: 5px 0;
+    -moz-border-radius: 5px 20px;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-out;
+    transition: all 0.5s ease-out;
+}
